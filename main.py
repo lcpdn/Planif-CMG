@@ -378,8 +378,8 @@ def week60a100(dateBegin):
 
 date=(datetime.datetime.now() + datetime.timedelta(days=0)).strftime('%Y-%m-%d')
 print("Debut du programme le :"+date)
-print("Vous êtes en capacité de réaliser "+str(sys.argv[1])+" pompes")
-print("Courage à vous !")
+print("Vous pouvez faire "+str(sys.argv[1])+" pompes")
+print("Courage !")
 
 if (int(sys.argv[1])<6):
 	week0a5(datetime.datetime.now())
