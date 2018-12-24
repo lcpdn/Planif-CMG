@@ -4,7 +4,7 @@ Les activités sont définies par une chaîne de caractères déterminées donna
 Le barême retenu est celui du Controle de la Condition Physique Générale, utilisé chez les pompiers, dans les lycées et dans le milieu militaire.
 Même si l'objectif du CCPG est de réaliser 50 pompes pour avoir la note maximum, ce script va un peu plus loin en programmant deux dernières phases d'entrainement.
 ## Usage
-`python main.py 5
+`python main.py 5`
 où 5 désigne le nombre de pompes que l'on est capable de réaliser avant le début du programme
 
 
